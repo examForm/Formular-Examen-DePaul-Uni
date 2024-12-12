@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Formular-Examen-DePaul-Uni/static/css/main.d5289b2f.css",
+    "main.js": "/Formular-Examen-DePaul-Uni/static/js/main.e8f740fb.js",
+    "index.html": "/Formular-Examen-DePaul-Uni/index.html",
+    "main.d5289b2f.css.map": "/Formular-Examen-DePaul-Uni/static/css/main.d5289b2f.css.map",
+    "main.e8f740fb.js.map": "/Formular-Examen-DePaul-Uni/static/js/main.e8f740fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.e8f740fb.js"
+  ]
+}
